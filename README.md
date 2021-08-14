@@ -30,7 +30,7 @@ yarn && yarn build && yarn ui
 
 ## The game has ended, let's submit my score !
 
-![Click game ended](images/3_click_game_end.png)
+![Click game ended](images/3_click_game_ended.png)
 
 ![Submit score](images/4_submit_score.png)
 
