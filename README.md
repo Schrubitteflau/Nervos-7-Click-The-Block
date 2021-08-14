@@ -1,11 +1,13 @@
 # Click The Block
 
 Created for `Nervos Hackaton`, task 7 : https://gitcoin.co/issue/nervosnetwork/grants/8/100026214
+
 Based on : https://github.com/Kuzirashi/blockchain-workshop/tree/godwoken-simple
 
 A simple web page to store and retrieve values from a smart contract deployed on `Nervos Testnet Layer 2`.
 
 Deployed contract address: 0x340aD995E6d73a33003041146a85B4D3d9F622fa
+
 Deploy transaction hash: 0x9e4a97269a6891729ccf16346d16d56fd77eb9399bb2e049dcf602a7dea6fc4e
 
 Useful documentation : https://docs.nervos.org/docs/essays/rules#script
@@ -20,7 +22,7 @@ yarn && yarn build && yarn ui
 
 ## UI presentation
 
-![UI presentation](1_images/ui_presentation.png)
+![UI presentation](images/1_ui_presentation.png)
 
 ## Play the click game
 
